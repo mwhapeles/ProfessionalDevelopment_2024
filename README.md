@@ -7,6 +7,6 @@
 
 * Images
 1. ![Screenshot of the homepage](\assets\homepage.png) 
-2. ![Screenshot of the Contact page, empty](\assets\contact.png)
+2. ![Screenshot of the Contact page, empty](ProfessionalDevelopment_2024-main/assets/contact.png)
 3. ![Screenshot of the filled out contact page](\assets\filledcontact.png)
 4. ![Screenshot of the messgae after submitting the contact form](\assets\submission.png)
